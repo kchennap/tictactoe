@@ -1,0 +1,9 @@
+{
+  "name": "ggf",
+  "app_id": "c98e0f5e",
+
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
